@@ -11,8 +11,6 @@ sites:
     url: https://api.fletec.io
   - name: FLETEC Documentation
     url: https://docs.fletec.io
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   cname: status.fletec.io
