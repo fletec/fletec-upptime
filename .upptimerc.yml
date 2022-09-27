@@ -13,13 +13,15 @@ sites:
     url: https://docs.fletec.io
 
 status-website:
-  cname: upptime.fletec.net
+  cname: status.fletec.io
   logoUrl: https://raw.githubusercontent.com/fletec/fletec-upptime/master/assets/fletec.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: FLETEC Status
+  introTitle: "**FLETEC** container M&R analytics platform"
+  introMessage: This is FLETEC's real-time status page.
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://fletec.io/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
