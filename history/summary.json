@@ -40,19 +40,19 @@
     "url": "https://docs.fletec.io",
     "icon": "https://favicons.githubusercontent.com/docs.fletec.io",
     "slug": "fletec-documentation",
-    "status": "up",
-    "uptime": "90.59%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "90.59%",
-    "time": 1775,
-    "timeDay": 1775,
-    "timeWeek": 1775,
-    "timeMonth": 1775,
-    "timeYear": 1775,
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1661,
+    "timeDay": 1661,
+    "timeWeek": 1661,
+    "timeMonth": 1661,
+    "timeYear": 1661,
     "dailyMinutesDown": {
-      "2022-09-27": 11
+      "2022-09-27": 0
     }
   }
 ]
