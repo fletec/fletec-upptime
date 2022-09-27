@@ -1,5 +1,25 @@
 [
   {
+    "name": "FLETEC Portal",
+    "url": "https://portal.fletec.io",
+    "icon": "https://favicons.githubusercontent.com/portal.fletec.io",
+    "slug": "fletec-portal",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2022-09-27": 21
+    }
+  },
+  {
     "name": "FLETEC API",
     "url": "https://api.fletec.io",
     "icon": "https://favicons.githubusercontent.com/api.fletec.io",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 612,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 583,
+    "timeDay": 583,
+    "timeWeek": 583,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1796,
-    "timeDay": 1796,
-    "timeWeek": 1796,
-    "timeMonth": 1796,
-    "timeYear": 1796,
+    "time": 1741,
+    "timeDay": 1741,
+    "timeWeek": 1741,
+    "timeMonth": 1741,
+    "timeYear": 1741,
     "dailyMinutesDown": {}
   }
 ]
