@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/portal.fletec.io",
     "slug": "fletec-portal",
     "status": "up",
-    "uptime": "54.60%",
-    "uptimeDay": "54.60%",
-    "uptimeWeek": "54.60%",
-    "uptimeMonth": "54.60%",
-    "uptimeYear": "54.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 543,
     "timeDay": 543,
     "timeWeek": 543,
     "timeMonth": 543,
     "timeYear": 543,
-    "dailyMinutesDown": {
-      "2022-09-27": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FLETEC API",
@@ -42,17 +40,19 @@
     "url": "https://docs.fletec.io",
     "icon": "https://favicons.githubusercontent.com/docs.fletec.io",
     "slug": "fletec-documentation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1900,
-    "timeDay": 1900,
-    "timeWeek": 1900,
-    "timeMonth": 1900,
-    "timeYear": 1900,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1713,
+    "timeDay": 1713,
+    "timeWeek": 1713,
+    "timeMonth": 1713,
+    "timeYear": 1713,
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   }
 ]
