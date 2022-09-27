@@ -4,6 +4,9 @@ repo: fletec-upptime
 sites:
   - name: FLETEC Portal
     url: https://portal.fletec.io
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: FLETEC API
     url: https://api.fletec.io
   - name: FLETEC Documentation
