@@ -28,10 +28,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-commitMessages:
-  commitAuthorName: "Upptime Bot"
-  commitAuthorEmail: "upptime@fletec.io"
-
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
