@@ -4,36 +4,40 @@
     "url": "https://portal.fletec.io",
     "icon": "https://icons.duckduckgo.com/ip3/portal.fletec.io.ico",
     "slug": "fletec-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 561,
-    "timeDay": 412,
-    "timeWeek": 477,
-    "timeMonth": 514,
+    "timeDay": 539,
+    "timeWeek": 501,
+    "timeMonth": 519,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   },
   {
     "name": "FLETEC API",
     "url": "https://api.fletec.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.fletec.io.ico",
     "slug": "fletec-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
-    "timeDay": 505,
-    "timeWeek": 590,
-    "timeMonth": 634,
+    "timeDay": 588,
+    "timeWeek": 600,
+    "timeMonth": 635,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-23": 0
+    }
   },
   {
     "name": "FLETEC Documentation",
