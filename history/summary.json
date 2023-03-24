@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.fletec.io.ico",
     "slug": "fletec-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 560,
-    "timeDay": 496,
-    "timeWeek": 491,
-    "timeMonth": 516,
-    "timeYear": 560,
-    "dailyMinutesDown": {
-      "2023-03-23": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 559,
+    "timeDay": 490,
+    "timeWeek": 460,
+    "timeMonth": 515,
+    "timeYear": 559,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FLETEC API",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fletec.io.ico",
     "slug": "fletec-api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 657,
-    "timeDay": 592,
-    "timeWeek": 600,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 656,
+    "timeDay": 583,
+    "timeWeek": 562,
     "timeMonth": 634,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2023-03-23": 14
-    }
+    "timeYear": 656,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FLETEC Documentation",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1815,
-    "timeDay": 1456,
-    "timeWeek": 1714,
+    "time": 1813,
+    "timeDay": 1418,
+    "timeWeek": 1629,
     "timeMonth": 1808,
-    "timeYear": 1815,
+    "timeYear": 1813,
     "dailyMinutesDown": {}
   }
 ]
