@@ -4,19 +4,19 @@
     "url": "https://portal.fletec.io",
     "icon": "https://icons.duckduckgo.com/ip3/portal.fletec.io.ico",
     "slug": "fletec-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 563,
-    "timeDay": 599,
-    "timeWeek": 538,
+    "timeDay": 596,
+    "timeWeek": 544,
     "timeMonth": 577,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-06-13": 0
+      "2023-06-13": 10
     }
   },
   {
