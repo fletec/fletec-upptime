@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
-    "timeDay": 640,
-    "timeWeek": 539,
-    "timeMonth": 578,
+    "timeDay": 404,
+    "timeWeek": 536,
+    "timeMonth": 572,
     "timeYear": 566,
     "dailyMinutesDown": {
       "2023-06-13": 10
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 738,
-    "timeWeek": 727,
-    "timeMonth": 704,
-    "timeYear": 670,
+    "timeDay": 491,
+    "timeWeek": 722,
+    "timeMonth": 692,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "slug": "fletec-documentation",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1833,
-    "timeDay": 1890,
-    "timeWeek": 1865,
-    "timeMonth": 1851,
-    "timeYear": 1833,
+    "timeDay": 1781,
+    "timeWeek": 1860,
+    "timeMonth": 1843,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2023-09-26": 7
     }
