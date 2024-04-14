@@ -42,18 +42,19 @@
     "url": "https://docs.fletec.io",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fletec.io.ico",
     "slug": "fletec-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1829,
-    "timeDay": 1906,
-    "timeWeek": 1834,
-    "timeMonth": 1731,
-    "timeYear": 1818,
+    "time": 1827,
+    "timeDay": 1526,
+    "timeWeek": 1748,
+    "timeMonth": 1712,
+    "timeYear": 1817,
     "dailyMinutesDown": {
+      "2024-04-14": 0,
       "2023-09-26": 7
     }
   }
