@@ -1,7 +1,7 @@
 url: https://api.fletec.io
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2024-06-21T23:01:58.524Z
+status: down
+code: 503
+responseTime: 654
+lastUpdated: 2024-06-22T08:55:22.087Z
 startTime: Tue Sep 27 2022 14:23:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
