@@ -12,7 +12,6 @@ sites:
   - name: FLETEC Documentation
     url: https://docs.fletec.io/ping
 
-
 status-website:
   cname: status.fletec.io
   logoUrl: https://raw.githubusercontent.com/fletec/fletec-upptime/master/assets/fletec.svg
