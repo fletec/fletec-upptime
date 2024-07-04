@@ -10,7 +10,7 @@ sites:
   - name: FLETEC API
     url: https://api.fletec.io
   - name: FLETEC Documentation
-    url: https://docs.fletec.io
+    url: https://docs.fletec.io/ping
 
 status-website:
   cname: status.fletec.io
