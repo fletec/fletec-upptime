@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.fletec.io.ico",
     "slug": "fletec-portal",
     "status": "down",
-    "uptime": "92.23%",
+    "uptime": "92.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "73.23%",
-    "time": 719,
-    "timeDay": 1251,
-    "timeWeek": 1196,
-    "timeMonth": 1178,
-    "timeYear": 752,
+    "uptimeYear": "72.96%",
+    "time": 720,
+    "timeDay": 1094,
+    "timeWeek": 1164,
+    "timeMonth": 1171,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2026-03-09": 30,
+      "2026-03-10": 27,
+      "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
@@ -115,8 +116,7 @@
       "2025-12-03": 1440,
       "2025-12-02": 1440,
       "2025-12-01": 961,
-      "2025-09-03": 14,
-      "2025-03-10": 11
+      "2025-09-03": 14
     }
   },
   {
@@ -130,14 +130,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 545,
-    "timeWeek": 597,
-    "timeMonth": 565,
+    "time": 673,
+    "timeDay": 503,
+    "timeWeek": 572,
+    "timeMonth": 562,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-09-03": 14,
-      "2025-03-10": 11
+      "2025-09-03": 14
     }
   },
   {
@@ -151,10 +150,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 309,
-    "timeWeek": 455,
-    "timeMonth": 437,
+    "time": 543,
+    "timeDay": 505,
+    "timeWeek": 441,
+    "timeMonth": 440,
     "timeYear": 520,
     "dailyMinutesDown": {}
   }
