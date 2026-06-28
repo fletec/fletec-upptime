@@ -17,7 +17,7 @@
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-09-03": 14,
-      "2026-06-28": 30,
+      "2026-06-28": 55,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -236,10 +236,10 @@
     "slug": "fletec-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 661,
     "timeDay": 592,
     "timeWeek": 778,
@@ -247,7 +247,7 @@
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-09-03": 14,
-      "2026-06-28": 9
+      "2026-06-28": 35
     }
   },
   {
@@ -257,10 +257,10 @@
     "slug": "fletec-documentation",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.98%",
     "time": 504,
     "timeDay": 469,
     "timeWeek": 434,
@@ -268,7 +268,7 @@
     "timeYear": 469,
     "dailyMinutesDown": {
       "2026-06-10": 63,
-      "2026-06-28": 2
+      "2026-06-28": 28
     }
   }
 ]
