@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.15%",
+    "uptimeYear": "35.11%",
     "time": 883,
     "timeDay": 1465,
     "timeWeek": 1339,
@@ -17,7 +17,7 @@
     "timeYear": 988,
     "dailyMinutesDown": {
       "2025-09-03": 14,
-      "2026-07-26": 41,
+      "2026-07-26": 257,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -262,12 +262,12 @@
     "url": "https://api.fletec.io",
     "icon": "https://icons.duckduckgo.com/ip3/api.fletec.io.ico",
     "slug": "fletec-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 668,
     "timeDay": 1147,
     "timeWeek": 966,
@@ -275,7 +275,8 @@
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-09-03": 14,
-      "2026-06-28": 62
+      "2026-06-28": 62,
+      "2026-07-26": 9
     }
   },
   {
@@ -283,10 +284,10 @@
     "url": "https://docs.fletec.io/ping",
     "icon": "https://icons.duckduckgo.com/ip3/docs.fletec.io.ico",
     "slug": "fletec-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 494,
@@ -296,7 +297,8 @@
     "timeYear": 465,
     "dailyMinutesDown": {
       "2026-06-10": 63,
-      "2026-06-28": 55
+      "2026-06-28": 55,
+      "2026-07-26": 2
     }
   }
 ]
